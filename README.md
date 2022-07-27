@@ -8,7 +8,7 @@ The system consists of the following sub-projects:
 * [Canonizer](https://github.com/penguineer/cleanURI-canonizer) - Transform a URL into its canonic form
 * [Extractor](https://github.com/penguineer/cleanURI-extractor) - Extract meta-data to create decorated referencess
 * :construction: Cache
-* :construction: Web UI
+* [Web UI](https://github.com/penguineer/cleanURI-webui) - A web-based frontend
 * :construction: Helm Chart
 
 
