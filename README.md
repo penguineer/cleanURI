@@ -9,7 +9,7 @@ The system consists of the following sub-projects:
 * [Extractor](https://github.com/penguineer/cleanURI-extractor) - Extract meta-data to create decorated referencess
 * :construction: Cache
 * [Web UI](https://github.com/penguineer/cleanURI-webui) - A web-based frontend
-* :construction: Helm Chart
+* [Helm Chart](https://github.com/penguineer/cleanURI-helm)
 
 
 ## Maintainers
