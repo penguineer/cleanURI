@@ -4,7 +4,7 @@
 
 The system consists of the following sub-projects:
 * [Site](https://github.com/penguineer/cleanURI-site) - Interfaces and helpers for site-specific implementations
-* :construction: Site Implementations - Sites supported by the cleanURI project
+* [Site Implementations](https://github.com/penguineer/cleanURI-site-implementations) - Sites supported by the cleanURI project
 * [Common](https://github.com/penguineer/cleanURI-common) - Common classes and definitions
 * [API Gateway](https://github.com/penguineer/cleanURI-apigateway) - REST API Gateway to the backend services
 * [Canonizer](https://github.com/penguineer/cleanURI-canonizer) - Transform a URL into its canonic form
