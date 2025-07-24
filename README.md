@@ -13,6 +13,13 @@ The system consists of the following sub-projects:
 * [Web UI](https://github.com/penguineer/cleanURI-webui) - A web-based frontend
 * [Helm Chart](https://github.com/penguineer/cleanURI-helm)
 
+## Why so complicated?
+
+The cleanURI project is designed with a very high degree of modularity in mind.
+This may seem overly complicated at first, but serves as a test bed for structural patterns that will be needed in larger projects.
+
+While this projects serves a real purpose, it is also a playground and learning environment for the author.
+New ideas and patterns are tested here, so that they can be used with confidence larger production environments.
 
 ## Maintainers
 
