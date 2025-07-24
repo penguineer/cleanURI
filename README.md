@@ -40,4 +40,4 @@ Please check the sub-projects linked above to see where the contribution would f
 
 ## License
 
-[MIT](LICENSE.txt) © 2022 Stefan Haun and contributors
+[MIT](LICENSE.txt) © 2022-2025 Stefan Haun and contributors
